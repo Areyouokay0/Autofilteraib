@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/3b46329e607912a0cddab.png" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/1c352544cbeacaefad5be.jpg" alt=" ALAS Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> @ALAS_NOW BOT </b>
 </h1>
 
 ## ⚡️Features
