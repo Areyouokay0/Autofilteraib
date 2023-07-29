@@ -13,7 +13,7 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ['23684657']
-API_HASH = environ['471fbeeb71b5fbf9246fc7342bb6754a']
+API_HASH = environ['']
 BOT_TOKEN = environ['6445459577:AAEB5gI6STImQMr2B6ePWBaj5i68Q6DjLmA']
 
 # Bot settings
@@ -32,9 +32,9 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Abhishek:Abhishek@cluster0.bang0b2.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Abhishek")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', '@ALAS_NOW')
+DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_NAME = environ.get('DATABASE_NAME', "")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', '')
 
 # Others
 LOG_CHANNEL = int(environ.get('-1001850627959', 0))
