@@ -1,0 +1,27 @@
+services:
+  - type: web
+    plan: free
+    name: ALAS_NOW
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 bot.py
+    repo: https://github.com/YTNOW/ALAS_NOW      
+    branch: artificial_inteligence_v7.5
+    envVars:
+      - key: BOT_TOKEN 
+        sync: false
+      - key: API_ID 
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: ADMINS
+        sync: false
+      - key: DATABASE_NAME
+        sync: false
+      - key: DATABASE_URI
+        sync: false 
+      - key: PICS
+        sync: false
+      - key: LOG_CHANNEL
+        sync: false    
+    autoDeploy: false
