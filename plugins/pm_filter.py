@@ -265,7 +265,7 @@ async def next_page(bot, query):
                 ]
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==')
+	    InlineKeyboardButton(text="✨ Follow us on Instagram ✨", url='https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==')
         ] 
     )
 
@@ -1223,7 +1223,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [ 
-	    InlineKeyboardButton(text="✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg=='),
+	    InlineKeyboardButton(text="✨ Follow us on Instagram ✨", url='https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg=='),
         ] 
     )
     if offset != "":
