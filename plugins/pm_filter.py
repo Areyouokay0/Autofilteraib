@@ -686,11 +686,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/+pgCWkNukmSliYzE1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/andybotssupportgroup")
             ],[
-                InlineKeyboardButton(text=f"🦋 Learn Bot Making 🦋", url=f"https://telegram.me/Aman_sain")
+                InlineKeyboardButton(text=f"✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==")
 
             ]]
             btn_lzdv = [
@@ -714,11 +714,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/+pgCWkNukmSliYzE1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/andybotssupportgroup")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://telegram.me/Aman_sain")
+                InlineKeyboardButton(text=f"✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==")
             ]]
             btn_lzdv = [
                 [
@@ -740,11 +740,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/+pgCWkNukmSliYzE1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/andybotssupportgroup")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://telegram.me/Aman_sain")
+                InlineKeyboardButton(text=f"✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==")
 
             ]]
             btn_lzdv = [
@@ -767,11 +767,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/+pgCWkNukmSliYzE1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/andybotssupportgroup")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://telegram.me/Aman_sain")
+                InlineKeyboardButton(text=f"✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==")
             ]]
             btn_lzdv = [
                 [
@@ -793,11 +793,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/{MOVIE_GROUP_USERNAME}")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://t.me/+pgCWkNukmSliYzE1")
             ],[
                 InlineKeyboardButton(text=f"🐞 REPORT ISSUE 🐞", url=f"https://t.me/andybotssupportgroup")
             ],[
-                InlineKeyboardButton(text=f"⚡️ Learn Bot Making 🦋", url=f"https://telegram.me/Aman_sain")
+                InlineKeyboardButton(text=f"✨ Follow us on Instagram ✨", url=f"https://instagram.com/allabout.aman_?igshid=MzNlNGNkZWQ4Mg==")
 
             ]]
             btn_lzdv = [
