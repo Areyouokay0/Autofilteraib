@@ -79,7 +79,7 @@ async def start(client, message):
             ],
              [
                 InlineKeyboardButton(
-                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtube.com/@Andyian_verse'
+                    "🦋 SUBSCRIBE YT Channel 🦋", url='https://youtu.be/__GeV_Bj5X8'
                 )
             ]
         ]
@@ -108,7 +108,7 @@ async def start(client, message):
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
         ],[
-            InlineKeyboardButton('Follow us on YouTube', url='https://youtube.com/@Andyian_verse')
+            InlineKeyboardButton('Follow us on YouTube', url='https://youtu.be/__GeV_Bj5X8')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
