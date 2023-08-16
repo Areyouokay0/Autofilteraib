@@ -28,7 +28,7 @@ async def start(client, message):
             [
                 InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ],[
-            InlineKeyboardButton('Follow us on YouTube', url='https://youtube.com/@Andyian_verse')
+            InlineKeyboardButton('Follow us on YouTube', url='https://youtu.be/__GeV_Bj5X8')
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
