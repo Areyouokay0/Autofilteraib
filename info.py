@@ -89,7 +89,7 @@ DOWNLOAD_TEXT_URL = "https://youtu.be/__GeV_Bj5X8"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/Aman_sain
+CAPTION_BUTTON_URL = "https://t.me/Aman_sain"
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
